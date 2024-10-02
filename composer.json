@@ -25,7 +25,7 @@
     "nwidart/laravel-modules": "~2.0",
     "spatie/laravel-html": "^3.0",
     "laracasts/presenter": "~0.2",
-    "dimsav/laravel-translatable": "~8.0",
+    "astrotomic/laravel-translatable": "^11.0",
     "mcamara/laravel-localization": "~1.1",
     "floatingpoint/stylist": "~0.5",
     "maatwebsite/laravel-sidebar": "^3.0",
