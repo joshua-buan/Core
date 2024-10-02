@@ -27,7 +27,6 @@
     "laracasts/presenter": "~0.2",
     "astrotomic/laravel-translatable": "^11.0",
     "mcamara/laravel-localization": "~1.1",
-    "floatingpoint/stylist": "~0.5",
     "maatwebsite/laravel-sidebar": "^3.0",
     "yajra/laravel-datatables-oracle": "~10.0",
     "tightenco/ziggy": "^2.0"
